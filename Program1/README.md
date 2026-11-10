@@ -9,7 +9,7 @@ Commands Executed:
 5. Navigated into the newly created folder using cd MyPortfolio.
 6. Created two files, index.html and style.css, using the touch command.
 7. Verified the created files using ls.
-8. Returned to the parent directory using cd ...
+8. Returned to the parent directory using cd ..
 9. Practised removing an empty directory using rmdir empty_folder.
 
 Result: Successfully created the MyPortfolio project directory, generated the required HTML and CSS files, verified their existence, and practised navigating between directories and removing an empty folder using terminal commands.
